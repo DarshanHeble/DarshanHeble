@@ -19,12 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/darshan heble" target="blank"><svg viewBox="0 0 300 75">
-  <rect x="0" y="0" width="300" height="75" fill="rgb(0, 108, 205)">
-    <text x="150" y="50" font-size="20" fill="white">LinkedIn</text>
-    <text x="150" y="30" font-size="10" fill="white">In</text>
-  </rect>
-</svg></a>
+<a href="https://linkedin.com/in/darshan heble" target="blank"></a>
 <a href="https://fb.com/darshan heble" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="darshan heble" height="30" width="40" /></a>
 <a href="https://instagram.com/darshan heble" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="darshan heble" height="30" width="40" /></a>
 </p>
