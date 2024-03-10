@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Darshan Heble</h1>
-<h3 align="center">
+<h1 align="center" style="font-size: 2.3rem; text-align: left">
+  Hi 👋, I'm Darshan Heble
+</h1>
+<h3 align="center" style="text-align: left; margin-block: -0.5rem 3rem">
   A passionate Web developer and Software Developer from India
 </h3>
 
@@ -22,7 +24,7 @@
   <li>🌱 I’m currently learning **Angular, Node js, express js**</li>
   <li>
     👨‍💻 All of my projects are available at
-    [https://darshanheble.github.io/myPortfolio/]
+    [https://darshanheble.github.io/myPortfolio/](https://darshanheble.github.io/myPortfolio/)
   </li>
   <li>📫 How to reach me **darshanheble1@gmail.com**</li>
 </ul>
