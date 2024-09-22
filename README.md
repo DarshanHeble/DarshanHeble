@@ -24,7 +24,7 @@
   <li>🌱 I’m currently learning **React, Electron, node js and basic Rust**</li>
   <li>
     👨‍💻 All of my projects are available at
-    [https://darshanheble.github.io/myPortfolio/](https://darshanheble.github.io/myPortfolio/)]
+    [https://darshanheble.github.io/myPortfolio/]
   </li>
   <li>📫 How to reach me **darshanheble1@gmail.com**</li>
 </ul>
