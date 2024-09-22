@@ -20,8 +20,8 @@
   /></a>
 </p>
 <ul>
-  <li>🔭 I’m currently working on **Automated Bell System**</li>
-  <li>🌱 I’m currently learning **Angular, Node js, express js**</li>
+  <li>🔭 I’m currently working on **Library Management System**</li>
+  <li>🌱 I’m currently learning **React, Electron, node js and basic Rust**</li>
   <li>
     👨‍💻 All of my projects are available at
     [https://darshanheble.github.io/myPortfolio/](https://darshanheble.github.io/myPortfolio/)
