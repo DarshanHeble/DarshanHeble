@@ -27,7 +27,7 @@
     </a>
   </p>
 
-  <img src="https://komarev.com/ghpvc/?username=darshanheble&color=8B5CF6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FDarshanHeble%2FDarshanHeble.json&color=8B5CF6&style=for-the-badge&logo=eye&logoColor=white&label=PROFILE%20VIEWS" alt="Profile Views" />
 </div>
 
 ---
