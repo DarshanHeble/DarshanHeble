@@ -1,145 +1,287 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Darshan%20Heble&fontSize=50&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20AI%20%26%20Distributed%20Systems%20%7C%20MCA%20'26&descAlignY=58&descSize=19&theme=tokyonight" width="100%" alt="Header" />
-</div>
-
-<div align="center">
-
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=620&lines=Crafting+Robust+Full-Stack+Platforms;Architecting+AI-driven+Developer+Tools;Solving+Complex+Problems+with+Java+%26+TypeScript;Always+Exploring%2C+Building+%26+Shipping)](https://git.io/typing-svg)
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,50:302b63,100:24243e&text=Darshan%20Heble&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20•%20Enterprise%20AI%20%26%20AST%20Systems%20•%20MCA%20'26&descAlignY=57&descSize=18&fontFamily=JetBrains+Mono"/>
 
   <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=860&lines=Building+Enterprise+AI-assisted+Modernization+Studios;Architecting+Full-Stack+Platforms+with+React%2C+TypeScript+%26+Java;Offline+Agentic+RAG+%26+Information+Retrieval+Systems;Linux-Native+Developer+%7C+Open+Source+Contributor" alt="Typing SVG" />
+  </p>
+
+  <p align="center">
+    <a href="https://github.com/DarshanHeble">
+      <img src="https://img.shields.io/badge/GitHub-DarshanHeble-181717?style=for-the-badge&logo=github" alt="GitHub" />
+    </a>
+    &nbsp;
     <a href="https://linkedin.com/in/darshanheble">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-Darshan%20Heble-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     &nbsp;
     <a href="https://leetcode.com/darshanheble">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+      <img src="https://img.shields.io/badge/LeetCode-DarshanHeble-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
     </a>
     &nbsp;
     <a href="mailto:darshanheble1@gmail.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-darshanheble1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     &nbsp;
     <a href="https://darshanheble.dev">
-      <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/Portfolio-darshanheble.dev-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
     </a>
   </p>
 
+  <img src="https://komarev.com/ghpvc/?username=darshanheble&style=for-the-badge&color=8B5CF6" alt="Profile Views" />
 </div>
 
 ---
 
-### 👨‍💻 About Me
+## 👋 About Me
 
-```yaml
-name: Darshan Heble
-degree: Master of Computer Applications (MCA) '26
-focus_areas:
-  - Full-Stack Web Development & Modern Architecture
-  - Enterprise AI Tools & AST-based Automation
-  - High-Performance Backend & Cloud Engineering
-passions: Building clean dev tools, distributed workflows, and competitive programming
-current_focus: Enterprise AST analysis, AI-assisted migration studio, and cloud microservices
-```
+I am a **Full Stack & Systems-focused Engineer** pursuing my **Master of Computer Applications (MCA, 2024–2026)** at **CHRIST (Deemed to be University), Bangalore**.
+
+I build robust full-stack applications, developer tooling, and AI-assisted automation pipelines. My work spans from **deterministic AST analysis & legacy codebase modernization** to **agentic offline RAG systems**, campus logistics platforms, and high-concurrency microservices.
+
+**What I'm focused on:**
+
+| Focus Area | Details |
+|---|---|
+| **Education** | MCA (2024–2026), CHRIST (Deemed to be University), Bangalore |
+| **Current Target** | SDE / Full-Stack / Platform Engineering Internships & Full-Time Roles |
+| **Core Architecture** | Enterprise code transformations (OpenRewrite, ASTs), Microservices, Agentic AI |
+| **Primary Arsenal** | TypeScript, Java (17/21), Python, Node.js, React, Docker, Linux |
+| **Environment** | Arch Linux / Omarchy daily driver, Hyprland, CLI-first workflows |
 
 ---
 
-### 🛠️ Tech Stack & Tooling
+## 🚀 Experience & Campus Engineering
+
+**Backend & Core Web Developer · Gateways (National Technical Fest, CHRIST University)**
+- Engineered backend services and responsive client web architectures for **Gateways 2025** & **Gateways 2026**, supporting college-wide registrations, event schedules, and live attendee flows.
+- Implemented high-reliability data models in TypeScript and Node.js for team formation, payment tracking, and ticketing.
+
+**IQAC Platform Developer · IQAC Cell, CHRIST University**
+- Collaborated on internal portal solutions and institutional data management tools (`Iqac-manager`), optimizing departmental record-keeping and multi-role audit pipelines.
+
+**Open Source Collaborator · Oppia Foundation**
+- Actively contributed to open-source codebase improvements, bug resolutions, and educational platform tooling with TypeScript and Python.
+
+---
+
+## 🛠️ Tech Stack & Arsenal
 
 <div align="center">
 
-#### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Shell](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+### 👨‍💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,java,python,rust,bash,c&theme=dark" alt="Languages" />
+</p>
 
-#### Frontend & UI
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+### 🎨 Frontend & Desktop
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,sass,electron,figma&theme=dark" alt="Frontend" />
+</p>
 
-#### Backend, AI & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+### ⚙️ Backend, AI & Distributed Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mongodb,sqlite&theme=dark" alt="Backend & DB" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/AST_%26_OpenRewrite-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="OpenRewrite" />
+  <img src="https://img.shields.io/badge/Agentic_RAG-7A5AF8?style=for-the-badge&logo=openai&logoColor=white" alt="Agentic RAG" />
+  <img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge" alt="LangChain" />
+  <img src="https://img.shields.io/badge/BullMQ_%26_Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+</p>
 
-#### DevOps & Environment
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+### ☁️ DevOps, Sandboxes & Environment
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,githubactions,postman&theme=dark" alt="DevOps" />
+</p>
 
 </div>
 
 ---
 
-### 🚀 Highlighted Projects
+## 🔬 Featured Engineering Projects
+
+<div align="center">
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">⚡ <a href="https://github.com/DarshanHeble/stack-lift">stack-lift</a></h3>
-      <p align="center">Enterprise AI-assisted Java modernization studio featuring OpenRewrite automation, deterministic AST & POM parsing, OCC patch review, and isolated sandbox validation.</p>
-      <p align="center">
-        <code>TypeScript</code> · <code>AI Engine</code> · <code>AST Analysis</code> · <code>Java Tooling</code>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🏆 <a href="https://github.com/DarshanHeble/Hackfolio">Hackfolio</a></h3>
-      <p align="center">Portfolio and project exhibition platform designed for developers and hackathons to showcase high-impact builds.</p>
-      <p align="center">
-        <code>React</code> · <code>TypeScript</code> · <code>TailwindCSS</code> · <code>Node.js</code>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">📰 <a href="https://github.com/DarshanHeble/ClearNews">ClearNews</a></h3>
-      <p align="center">AI-powered news platform to track and analyze the lifecycle and ideological/bias orientation of news stories.</p>
-      <p align="center">
-        <code>Python</code> · <code>NLP / AI</code> · <code>FastAPI</code> · <code>Analytics</code>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">💡 <a href="https://github.com/DarshanHeble/leetcode">LeetCode Solutions</a></h3>
-      <p align="center">Curated repository of algorithmic problems and optimized data structure solutions written in Java.</p>
-      <p align="center">
-        <code>Java</code> · <code>Algorithms</code> · <code>Data Structures</code>
-      </p>
-    </td>
-  </tr>
+<tr>
+
+<td width="50%" valign="top">
+
+### ⚡ <a href="https://github.com/DarshanHeble/stack-lift">Stack-Lift</a>
+
+> **Enterprise AI-Assisted Java Modernization Studio**
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java_AST-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenRewrite-FF6F00?style=flat-square"/>
+<img src="https://img.shields.io/badge/Docker_Sandbox-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+
+#### ✨ Engineering Highlights
+- 🔄 **Automated Recipe Migration:** Executes deterministic OpenRewrite recipe catalogs on legacy Java codebases.
+- 🌳 **AST & POM Parsing:** Extracts semantic symbol trees and Maven dependency graphs without breaking builds.
+- 🛡️ **OCC Patch Review:** Isolated sandbox container execution to validate syntax, compilation, and regression test suites before diff commits.
+
+<br>
+
+<a href="https://github.com/DarshanHeble/stack-lift">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔍 <a href="https://github.com/DarshanHeble/docSeek-offline-agentic-RAG">docSeek</a>
+
+> **Offline Agentic RAG & Document Intelligence Platform**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Agentic_RAG-7A5AF8?style=flat-square"/>
+<img src="https://img.shields.io/badge/Vector_Embeddings-00A67E?style=flat-square"/>
+<img src="https://img.shields.io/badge/Local_LLM-412991?style=flat-square"/>
+
+#### ✨ Engineering Highlights
+- 🔒 **100% Air-Gapped & Local:** High-accuracy semantic search and citation-backed question answering without cloud egress.
+- 🧠 **Agentic Query Planner:** Multi-step query decomposition and re-ranking for complex technical papers and multi-page PDFs.
+- ⚡ **Low Latency Inference:** Optimized vector retrieval pipeline designed for constrained local compute.
+
+<br>
+
+<a href="https://github.com/DarshanHeble/docSeek-offline-agentic-RAG">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 📰 <a href="https://github.com/DarshanHeble/ClearNews">ClearNews</a>
+
+> **AI-Powered News Lifecycle & Bias Analytics Platform**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP_Pipelines-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Analytics-darkgreen?style=flat-square"/>
+
+#### ✨ Engineering Highlights
+- 📊 **Media Bias Tracking:** Classifies framing, sentiment, and ideological orientation across hundreds of syndicated sources.
+- ⏱️ **Story Lifecycle Graph:** Models how stories mutate, peak, and decay across the news cycle using temporal NLP clustering.
+- 📡 **REST API Architecture:** High-throughput FastAPI endpoints serving clean analytical graphs to frontends.
+
+<br>
+
+<a href="https://github.com/DarshanHeble/ClearNews">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🏆 <a href="https://github.com/DarshanHeble/pehchaan">Pehchaan</a>
+
+> **Identity & Eligibility Verification for Hackathons**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Computer_Vision-008CC1?style=flat-square"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI_Challenge_BLR-gold?style=flat-square"/>
+
+#### ✨ Engineering Highlights
+- 🎯 **PS-003 AI Build Challenge Bengaluru:** Automated participant validation and fraud prevention for large-scale hackathons.
+- 🪪 **Smart OCR & ID Parsing:** Extracts institution details, student IDs, and registration metadata with verification heuristics.
+- ⚡ **Instant Qualification Engine:** Real-time feedback API for instantaneous check-ins.
+
+<br>
+
+<a href="https://github.com/DarshanHeble/pehchaan">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
 </table>
 
----
-
-### 📊 GitHub Activity & Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DarshanHeble&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=38BDF8&text_color=94A3B8" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarshanHeble&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=94A3B8" alt="Top Languages" width="45%" />
-</div>
-
-<div align="center">
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarshanHeble&theme=tokyonight&hide_border=true&background=0D1117&ring=60A5FA&fire=38BDF8&currStreakLabel=60A5FA" alt="GitHub Streak" width="95%" />
-</div>
-
-<div align="center">
-  <br />
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=DarshanHeble&theme=flat&no-frame=true&no-bg=true&margin_w=8" alt="Trophies" />
-  </a>
 </div>
 
 ---
 
+## 🐧 Linux & Systems Craft
+
+> *"The terminal is home."*
+
+Linux has been my primary daily driver for years. I build and maintain customized, keyboard-driven Linux workstations:
+- **Environment:** Arch Linux with Wayland / Hyprland (Omarchy), Kitty terminal, and customized dotfiles ([config repo](https://github.com/DarshanHeble/linux_conf)).
+- **Practices:** Scripting POSIX shell automations, configuring headless microservices with Docker, and fine-tuning developer toolchains.
+
+---
+
+## 📊 GitHub Analytics & Telemetry
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&theme=tokyonight" width="100%" alt="Footer" />
+
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=DarshanHeble&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=A78BFA&icon_color=38BDF8&text_color=94A3B8&bg_color=0D1117" alt="GitHub Stats" />
+&nbsp;
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarshanHeble&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA&text_color=94A3B8&bg_color=0D1117" alt="Top Languages" />
+
+</div>
+
+### 📈 Activity & Contribution Velocity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DarshanHeble&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=38BDF8&point=38BDF8" width="100%" alt="Activity Graph" />
+</div>
+
+<div align="center">
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarshanHeble&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=38BDF8&currStreakLabel=A78BFA" alt="GitHub Streak" width="95%" />
+</div>
+
+### 🐍 Contribution Graph Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DarshanHeble/DarshanHeble/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DarshanHeble/DarshanHeble/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/DarshanHeble/DarshanHeble/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect & Collaborate
+
+I'm always excited to discuss:
+- ⚡ **Full-Stack & Distributed Systems Architecture**
+- 🤖 **Agentic RAG, Code Analysis & AI DevTools**
+- 🚀 **Open Source & Hackathons**
+
+<br>
+
+<a href="mailto:darshanheble1@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Drop_a_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/darshanheble">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://darshanheble.dev">
+  <img src="https://img.shields.io/badge/Portfolio-darshanheble.dev-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f0c29,50:302b63,100:24243e" alt="Footer" />
+
+⭐ *"Engineering robust software with curiosity, discipline, and craft."*
+
 </div>
