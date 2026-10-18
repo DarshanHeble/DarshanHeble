@@ -27,7 +27,7 @@
     </a>
   </p>
 
-  <img src="https://komarev.com/ghpvc/?username=darshanheble&style=for-the-badge&color=8B5CF6" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=darshanheble&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="Profile Views" />
 </div>
 
 ---
@@ -247,9 +247,9 @@ Linux has been my primary daily driver for years. I build and maintain customize
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DarshanHeble/DarshanHeble/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DarshanHeble/DarshanHeble/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/DarshanHeble/DarshanHeble/output/github-contribution-grid-snake-dark.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DarshanHeble/DarshanHeble/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DarshanHeble/DarshanHeble/refs/heads/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/DarshanHeble/DarshanHeble/refs/heads/output/github-contribution-grid-snake-dark.svg" width="100%" />
   </picture>
 </div>
 
