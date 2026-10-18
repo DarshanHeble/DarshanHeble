@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,50:302b63,100:24243e&text=Darshan%20Heble&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20•%20AI%20%26%20Distributed%20Systems%20•%20MCA%20'26&descAlignY=57&descSize=18&fontFamily=JetBrains+Mono"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f0c29,50:302b63,100:24243e&text=Darshan%20Heble&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Engineer%20%7C%20AI%20and%20Distributed%20Systems%20%7C%20MCA%20%2726&descAlignY=62&descSize=18" alt="Darshan Heble" />
 
   <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=860&lines=Building+Enterprise+AI-assisted+Modernization+Studios;Architecting+Full-Stack+Platforms+with+React%2C+TypeScript+%26+Java;Offline+Agentic+RAG+%26+Information+Retrieval+Systems;Linux-Native+Developer+%7C+Open+Source+Contributor" alt="Typing SVG" />
